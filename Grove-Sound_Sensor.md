@@ -1,6 +1,12 @@
-#Grove - Sound Sensor
-
-##Introduction
+---
+title: Grove - Sound Sensor
+category: Sensor
+bzurl: https://www.seeedstudio.com/Grove-Sound-Sensor-p-752.html
+oldwikiname: Grove_-_Sound_Sensor
+prodimagename: page.jpg
+surveyurl: https://www.surveymonkey.com/r/SoundSensor
+sku: 101020023
+---
 
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Sound_Sensor/master/images/page.jpg)
 
@@ -110,7 +116,3 @@ Here let's click on **Serial > Plotter** to get the changing curve of the sensor
 * [Schematic in Eagle File](https://github.com/SeeedDocument/Grove_Sound_Sensor/raw/master/resources/Grove%20-%20Sound%20Sensor.zip)
 * [Github Page of this Document](https://github.com/SeeedDocument/Grove_Sound_Sensor)
 
-##Help us to make it better
-
-
-<iframe style="height: 700px; width: 700px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/SoundSensor" frameborder="0"></iframe>
